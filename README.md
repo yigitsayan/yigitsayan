@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yigit Sayan</h1>
-<h3 align="center">A Software Engineer from Turkey living in Berlin, Germany</h3>
+<h3 align="center">A Software Engineer from Turkey 🇹🇷 living in Berlin, Germany 🇩🇪</h3>
 
 - 👨‍💻 I’m currently working as a Tech Lead [@Locafy](https://locafy.com)
 
