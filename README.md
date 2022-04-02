@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working as a Tech Lead [@Locafy](https://locafy.com)
 
-- 📫 How to reach me **yigitsayan@gmail.com**
+- 📫 You can reach me via **yigitsayan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
