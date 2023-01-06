@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yigit Sayan</h1>
 <h3 align="center">A Software Engineer from Turkey 🇹🇷 living in Berlin, Germany 🇩🇪</h3>
 
-- 👨‍💻 I’m currently looking for a Senior Software Engineer/Technical Lead in Berlin
+- 👨‍💻 I’m currently looking for a new job as a Senior Software Engineer/Technical Lead in Berlin(Remote Possible)
 
 - 📫 You can reach me via **yigitsayan@gmail.com**
 
